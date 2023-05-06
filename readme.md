@@ -21,6 +21,10 @@ This program utilizes the following libraries:
 
 Capture of the image of rubik cube is done with c key in keyboard and q is used to exit while s is used to solve after all sides are captured
 
+## Output
+
+
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
