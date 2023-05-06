@@ -23,7 +23,7 @@ Capture of the image of rubik cube is done with c key in keyboard and q is used 
 
 ## Output
 
-
+![](https://github.com/TheSansySasy/RUB-R/blob/main/assets/Screenshot%202023-05-06%20004406.png)
 
 ## Contributing
 
