@@ -1,4 +1,4 @@
-# Program Name
+# RUBÉR
 
 This is a Rubik Cube Solver made using python open-cv, and a Rubik Cube Library Kociemba
 
